@@ -12,3 +12,7 @@
 ## Sentry
 
 `claude mcp add --transport http sentry https://mcp.sentry.dev/mcp`
+
+
+## Task Master
+`claude mcp add --scope project taskmaster-ai -- npx -y --package=task-master-ai task-master-ai`
